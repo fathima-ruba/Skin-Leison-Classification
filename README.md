@@ -1,5 +1,7 @@
 # Skin Lesion Classification using Deep Learning
 
+### Please view code for detailed project report.
+
 ## Introduction
 Skin cancer is among the most prevalent forms of cancer worldwide. The timely detection and accurate classification of skin lesions can play a crucial role in improving the treatment outcomes. This project aims to employ deep learning algorithms, specifically Convolutional Neural Networks (CNNs), for the automatic classification of skin lesions into benign and malignant categories based on dermoscopic images.
 
